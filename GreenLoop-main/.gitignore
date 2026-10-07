@@ -1,0 +1,5 @@
+/uploads/*
+!/uploads/.htaccess
+!/uploads/files/
+/uploads/files/*
+!/uploads/files/.htaccess
